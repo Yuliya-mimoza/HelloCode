@@ -1,5 +1,5 @@
 ﻿// Вид1
-void Method1();
+void Method1()
 {
     Console.WriteLine("Автор...");
 }
